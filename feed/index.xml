@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Flamenation</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=3" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=2" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 08 Feb 2023 09:41:02 +0000</lastBuildDate>
